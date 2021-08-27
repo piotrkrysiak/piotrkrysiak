@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **krysiakpiot14@gmail.com**
+- 📫 How to reach me **krysiakpiotr14@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
