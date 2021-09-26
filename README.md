@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piotr Krysiak 💜</h1>
+<h1 align="center">Hi 👋, I'm Piotr Krysiak </h1>
 <h3 align="center">Student of Computer Science, 7th term. A passionate React and React Native developer. </h3>
 
 - 🔭 I’m currently working on [MoviePicker](https://github.com/augustyn1331/MoviePicker)
