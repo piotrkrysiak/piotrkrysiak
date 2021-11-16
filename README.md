@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Krysiak </h1>
 <h3 align="center">Student of Computer Science, 7th term. A passionate React and React Native developer. </h3>
 
-- 🔭 I’m currently working on React Native Mobile App for My Engineer's Degree Thesis, "Scorely" (Football social networking service)
+- 🔭 I’m currently working on React Native Mobile App for My Engineer's Degree Thesis, [Scorely](https://github.com/piotrkrysiak/Scorely) (Football social networking service)
 - 📫 How to reach me **krysiakpiotr14@gmail.com**
 - 🔗 Connect with me **https://www.linkedin.com/in/krysiakpiotr/**
 
