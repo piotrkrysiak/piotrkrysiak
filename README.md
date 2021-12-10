@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piotr Krysiak </h1>
 <h3 align="center">Student of Computer Science, 7th term. A passionate React and React Native developer. </h3>
 
-- 🔭 I’m currently working on React Native Mobile App [Scorely](https://github.com/piotrkrysiak/Scorely) - Football social networking service
-- 📖 Major project [MoviePicker](https://github.com/augustyn1331/MoviePicker) - Movies and TV series browser app
+- 📖 Major project [**MoviePicker**](https://github.com/augustyn1331/MoviePicker) - Movies and TV Series browser app
+- 🔭 I’m currently working on React Native Mobile App [**Scorely**](https://github.com/piotrkrysiak/Scorely) - Football social networking service
 - 📫 How to reach me **krysiakpiotr14@gmail.com**
 - 🔗 Connect with me **https://www.linkedin.com/in/krysiakpiotr/**
 
