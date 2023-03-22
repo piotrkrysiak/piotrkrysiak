@@ -1,8 +1,8 @@
 <h1>
-  Hello, It's Piotr here <img src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif?cid=ecf05e47kd1cesofsvqtmw7qina1uxh7ouqsox4px8hdvg2f&rid=giphy.gif&ct=s" width="40px" height="30px">
+  Hey, it's Piotr here! <img src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif?cid=ecf05e47kd1cesofsvqtmw7qina1uxh7ouqsox4px8hdvg2f&rid=giphy.gif&ct=s" width="40px" height="30px">
 </h1>
 
-💻 I am Frontend Developer working primarily on React & Gatsby projects.<br>📚 I graduate with an engineer's degree in computer science.<br>🔧 I always try to write the cleanest code possible with new technologies and libraries.<br>🚀 I am always eager to learn and explore new technologies such as Node.js and Vue.js to improve my skills and capabilities.<br>🔗 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krysiakpiotr/) 
+💻 I'm Frontend Developer working primarily on React & Gatsby projects.<br>📚 I completed my studies at Częstochowa University of Technology and obtained an engineer's degree in Computer Science.<br>🔧 I always try to write the cleanest code possible with new technologies and libraries.<br>🚀 I'm always eager to learn and explore new technologies such as Node.js and Vue.js to improve my skills and capabilities.<br>🔗 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krysiakpiotr/) 
 
 <h2></h2>
 
